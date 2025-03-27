@@ -1,0 +1,2 @@
+/usr/bin/ar qc libNvn.a CMakeFiles/Nvn.dir/src/hk/nvn/nvn_CppFuncPtrImpl.cpp.obj CMakeFiles/Nvn.dir/src/hk/gfx/ShaderImpl.cpp.obj CMakeFiles/Nvn.dir/src/hk/gfx/TextureImpl.cpp.obj CMakeFiles/Nvn.dir/src/hk/gfx/UboImpl.cpp.obj CMakeFiles/Nvn.dir/src/hk/gfx/NvnBootstrapOverride.cpp.obj
+/usr/bin/ranlib libNvn.a

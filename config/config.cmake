@@ -1,4 +1,5 @@
 include_directories(
+    #${CMAKE_SOURCE_DIR}/sys/hakkun/include/
     # You put your includes libraries here
 )
 set(LINKFLAGS -nodefaultlibs)
