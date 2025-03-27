@@ -1,2 +1,0 @@
-/usr/bin/ar qc libDebugRenderer.a CMakeFiles/DebugRenderer.dir/src/hk/gfx/DebugRenderer.cpp.obj CMakeFiles/DebugRenderer.dir/src/hk/gfx/Font.cpp.obj CMakeFiles/DebugRenderer.dir/shader_shader.S.obj CMakeFiles/DebugRenderer.dir/font_shader.S.obj
-/usr/bin/ranlib libDebugRenderer.a

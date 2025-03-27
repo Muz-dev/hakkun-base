@@ -1,0 +1,3 @@
+# Exclude the build dir's
+build
+build-*

@@ -1,3 +1,0 @@
-# Hashes of file build rules.
-f58ede429d6ecd5e65acbed5da1e5d09 sys/addons/DebugRenderer/font_shader.S
-f48d2bc31e158593e30cc5ce779409aa sys/addons/DebugRenderer/shader_shader.S
