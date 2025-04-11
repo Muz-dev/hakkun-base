@@ -33,4 +33,4 @@ aarch64-linux-gnu-readelf -s --wide "$INPUT" |
         fi
     done
 
-echo "Extracted symbols into $OUTPUT"
+echo "Extracted unique symbols into $OUTPUT"
