@@ -16,7 +16,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED TRUE)
 
 set(IS_32_BIT FALSE) # Some older games are 32 bit
 set(TARGET_IS_STATIC FALSE) # Do you want to statically link the symbols or dynamically link the symbols
-set(MODULE_NAME Hakkun-base)
+set(MODULE_NAME Hakkun-base) # Change this to the name of your CMake Project
 set(TITLE_ID ) # Set this to your title id
 set(MODULE_BINARY subsdk9) # Best to keep this at 9 
 set(SDK_PAST_1900 FALSE) # Most of the time this flag is false but if you have a very new game then it could be true
