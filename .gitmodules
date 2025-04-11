@@ -1,3 +1,6 @@
 [submodule "sys"]
 	path = sys
 	url = https://github.com/fruityloops1/libhakkun
+[submodule "lib/imgui"]
+	path = lib/imgui
+	url = https://github.com/ocornut/imgui
